@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading.Channels;
 
 class Program
 {
@@ -10,6 +11,6 @@ class Program
 
         int result = calc.AddTax(price);
 
-        Console.WriteLine(result);
+        Console.WriteLine("REMOTE CHANGE");
     }
 }
