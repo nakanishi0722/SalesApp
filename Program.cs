@@ -11,7 +11,7 @@ class Program
 
         int total = calculator.CalculateTotal(price, quantity);
 
-        Console.WriteLine($"合計金額: {total}");
+        Console.WriteLine($"修正1回目　合計金額: {total}");
         Console.ReadLine();
     }
 }
