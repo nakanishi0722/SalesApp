@@ -11,6 +11,6 @@ class Program
 
         int result = calc.AddTax(price);
 
-        Console.WriteLine("LOCAL CHANGE");
+        Console.WriteLine("REMOTE CHANGE");
     }
 }
