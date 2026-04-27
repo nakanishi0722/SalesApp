@@ -11,6 +11,6 @@ class Program
 
         int result = calc.AddTax(price);
 
-        Console.WriteLine("REMOTE CHANGE visual studioで更新");
+        Console.WriteLine("REMOTE CHANGE visual studioで更新①");
     }
 }
